@@ -1,0 +1,6 @@
+[submodule "Game-UI"]
+	path = Game-UI
+	url = https://github.com/asayush11/Tic-Tac-Toe-Frontend.git
+[submodule "Backend-Service"]
+	path = Backend-Service
+	url = https://github.com/asayush11/Tic-Tac-Toe-Backend.git
